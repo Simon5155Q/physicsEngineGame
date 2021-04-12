@@ -37,4 +37,5 @@ function touch(){
       console.log("It works");
     
       }
+      console.log("does not work");
 } 
